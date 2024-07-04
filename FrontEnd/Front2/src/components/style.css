@@ -1,0 +1,13 @@
+/* Basic header styles */
+.header {
+    background-color: #333; /* Background color */
+    color: #efefef; /* Text color */
+    display: flex;
+    justify-content: center;
+    padding: 15px 20px; /* Padding inside the header */
+    text-align: center; /* Center align text */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Shadow for header */
+    font-size: xx-large;
+    border-radius: 20px;
+    
+}
